@@ -1,0 +1,7 @@
+{
+  "name": "cut_the_bill",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
